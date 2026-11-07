@@ -3,12 +3,6 @@
 **Offline Facial Recognition & Liveness Detection System for Remote Field Operations**
 
 > A fully offline, AI-powered biometric authentication module for the Datalake 3.0 React Native app — enabling secure field personnel attendance in zero-network environments.
-
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![React Native](https://img.shields.io/badge/React%20Native-0.73+-green)](https://reactnative.dev)
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)](https://reactnative.dev)
-[![Model Size](https://img.shields.io/badge/Model%20Size-~8%20MB-brightgreen)](docs/architecture.md)
-
 ---
 
 ## 📋 Table of Contents
@@ -37,20 +31,6 @@ FaceShield solves the critical problem of biometric authentication for NHAI fiel
 - **MobileNetV3 + MediaPipe** for dual-layer liveness detection
 - **AES-256 encrypted SQLite** for offline storage
 - **AWS S3 sync + purge** when connectivity is restored
-
----
-
-## Features
-
-- ✅ **100% Offline** — no internet required for authentication
-- ✅ **Dual-Layer Liveness** — active challenge (blink/smile/turn) + passive texture anti-spoofing
-- ✅ **~8 MB total** model bundle (2.5× under the 20 MB limit)
-- ✅ **<650ms** end-to-end authentication on mid-range devices
-- ✅ **>99% accuracy** with Indian demographic fine-tuning
-- ✅ **AES-256 encryption** for all local biometric data
-- ✅ **AWS sync & purge** on network restoration
-- ✅ **React Native** — works on Android 8.0+ and iOS 12+
-- ✅ **Apache 2.0** — fully open source, zero license fees
 
 ---
 
@@ -262,4 +242,3 @@ All third-party components used are open source (Apache 2.0 / MIT). No proprieta
 
 ---
 
-*Built with ❤️ for NHAI field personnel safety*
