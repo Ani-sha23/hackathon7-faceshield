@@ -1,11 +1,11 @@
-# 🛡️ FaceShield — NHAI Hackathon 7.0
+# FaceShield — NHAI Hackathon 7.0
 
 **Offline Facial Recognition & Liveness Detection System for Remote Field Operations**
 
 > A fully offline, AI-powered biometric authentication module for the Datalake 3.0 React Native app — enabling secure field personnel attendance in zero-network environments.
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -220,17 +220,7 @@ hackathon7-faceshield/
 └── README.md
 ```
 
----
 
-## Team
-
-| Name | Role |
-|------|------|
-| **Anisha Garg** | Team Leader — AI/ML, React Native |
-| Team Member 1 | Backend, AWS Integration |
-
-**Hackathon**: NHAI Hackathon 7.0
-**Submission Date**: 01.06.2026
 
 ---
 
